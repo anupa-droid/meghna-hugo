@@ -1,0 +1,23 @@
++++
+author = "Anupa"
+date = 2020-12-01T18:30:00Z
+description = ""
+draft = true
+image = ""
+image_webp = ""
+title = "DevOps in a nutshell"
+
++++
+#### What is it?
+
+In simple words, DevOps is a set of principles, practices and tools that help an organisation to deliver products faster by facilitating an integration of development and operations functions. To truly achieve DevOps culture, some core principles need to be followed as below.
+
+#### Principles
+
+1. Encourages a collaborative environment
+2. Impose end-to-end responsibility
+3. Encourage Continuous Improvement and Delivery
+4. Automate, almost, everything
+5. Customer centric
+6. Learn and accept failure
+7. Unite teams and reduce silos
