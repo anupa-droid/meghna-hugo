@@ -4,7 +4,7 @@ date = 2020-12-01T18:30:00Z
 description = ""
 draft = true
 image = ""
-image_webp = ""
+image_webp = "/images/blog/blog-post-3.webp"
 title = "DevOps in a nutshell"
 
 +++
