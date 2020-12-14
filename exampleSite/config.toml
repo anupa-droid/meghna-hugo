@@ -1,5 +1,5 @@
 baseURL = "https://anupa-susan-netlify.com"
-disableLanguages = []
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
