@@ -3,7 +3,7 @@ disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
+theme = "an-hugo"
 themesDir = "../.."
 title = "Anupa"
 [Languages.en]
