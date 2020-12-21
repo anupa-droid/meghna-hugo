@@ -2,7 +2,7 @@
 title: DevOps in a nutshell
 date: 2020-12-02T08:51:12+00:00
 image_webp: "/images/lukas-blazek-gnvurwjskay-unsplash.jpg"
-image: images/blog/blog-post-2.jpg
+image: "/images/lukas-blazek-gnvurwjskay-unsplash.jpg"
 author: Anupa
 description: This is meta description
 
