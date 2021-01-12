@@ -18,8 +18,3 @@ fields:
   name: description
   label: description
   description: meta description
-- type: text
-  name: author
-  label: author
-  description: 'Ex: John Doe'
-  hidden: true
