@@ -4,7 +4,7 @@ contact:
   title: Contact Me
   subtitle: Contact Details
   content: "Feel free to interact with me on my email below. \n\nI will do my best
-    to get back to you soon!\n\nAnupa Abraham\n\nanupasabraham@gmail.com\n\nhttps://www.linkedin.com/in/anupa-abraham-b86562105/"
+    to get back to you soon!\n\nanupasabraham@gmail.com\n\nhttps://www.linkedin.com/in/anupa-abraham-b86562105/"
   contact_list:
   - icon: ti-location-pin
     info: Khaja Road, Bayzid, Chittagong, Bangladesh
@@ -13,7 +13,7 @@ contact:
   - icon: ti-printer
     info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: anupasabraham@gmail.com'
   contact_form:
     enable: false
     form_action: "#"
