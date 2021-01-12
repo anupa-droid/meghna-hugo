@@ -4,9 +4,11 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Experience the new reality
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Technology | Music | Books | Musings
+  content: |-
+    Welcome
+    There's much to see here. So, take your time, look around. Then make sure to drop me a line.
+    I look forward to hearing from you.
   button:
     enable: false
     label: Explore Us
