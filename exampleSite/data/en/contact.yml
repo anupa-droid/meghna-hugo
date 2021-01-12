@@ -3,11 +3,9 @@ contact:
   enable: true
   title: Contact Me
   subtitle: Contact Details
-  content: "Feel free to interact with me on my email below. \n\nI will do my best
-    to get back to you soon!\n\nanupasabraham@gmail.com\n\nhttps://www.linkedin.com/in/anupa-abraham-b86562105/"
+  content: "Feel free to interact with me on my email. \n\nI will do my best to get
+    back to you soon!\n\nhttps://www.linkedin.com/in/anupa-abraham-b86562105/"
   contact_list:
-  - icon: ti-LinkedIn
-    info: https://www.linkedin.com/in/anupa-abraham-b86562105/
   - icon: ti-location-pin
     info: Pune, Maharashtra, India
   - icon: ti-email
