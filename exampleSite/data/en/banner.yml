@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/blog/blog-post-3.webp
+  bg_image: images/blog/blog-post-3.jpg
   icon: ''
   title: Technology | Music | Books | Musings
   content: |-
