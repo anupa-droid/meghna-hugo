@@ -44,7 +44,7 @@ Let me explain how this works in four simple steps:
      Example: .COM, .NET, .ORG
    * **Subdomain**: this is the additional part to your domain to your main domain name. They are created usually to navigate to different sections of your website. You can create multiple child domains/ subdomains on your primary website.
 
-     Example: _www.store.anupasusan.com_
+     Example: _store.anupasusan.com_
 
      where _store_ is subdomain, _anupasusan_  is the primary domain and _.com_ is the TLD.
    * **DNS zone:** A DNS Zone represents the domain name space that is managed by a single Authoritative Name Server. A DNS Zone resides on its Authoritative Name Server and contains multiple DNS entries for each sub-domain.
