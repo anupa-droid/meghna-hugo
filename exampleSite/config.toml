@@ -5,7 +5,7 @@ paginate = "6"
 summaryLength = "15"
 theme = "an-hugo"
 themesDir = "../.."
-title = "Anupa Susan"
+title = "Anupa "
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
