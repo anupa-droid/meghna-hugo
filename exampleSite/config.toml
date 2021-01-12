@@ -153,7 +153,7 @@ icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "#https://www.linkedin.com/in/anupa-abraham-b86562105/"
 [[params.social]]
 icon = "ti-dribbble"
 link = "#"
