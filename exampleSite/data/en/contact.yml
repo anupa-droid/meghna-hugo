@@ -6,12 +6,10 @@ contact:
   content: "Feel free to interact with me on my email below. \n\nI will do my best
     to get back to you soon!\n\nanupasabraham@gmail.com\n\nhttps://www.linkedin.com/in/anupa-abraham-b86562105/"
   contact_list:
+  - icon: tiLinkedIn
+    info: ''
   - icon: ti-location-pin
-    info: Khaja Road, Bayzid, Chittagong, Bangladesh
-  - icon: ti-mobile
-    info: 'Phone: +880-31-000-000'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
+    info: Pune, Maharashtra, India
   - icon: ti-email
     info: 'Email: anupasabraham@gmail.com'
   contact_form:
