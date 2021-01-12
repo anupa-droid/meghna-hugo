@@ -101,11 +101,11 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Anupa"
+description = "My Blog"
 google_analytics_id = ""
-logo = "images/logo.png"
-post_share = true
+logo = ""
+post_share = false
 [params.cookies]
 enable = false
 expire_days = 2
