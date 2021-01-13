@@ -3,7 +3,7 @@ disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "an-hugo"
+theme = ""
 themesDir = "../.."
 title = "Anupa "
 [Languages.en]
@@ -74,7 +74,7 @@ weight = 8
 author = "Anupa"
 description = "My Blog"
 google_analytics_id = ""
-logo = ""
+logo = "/images/favicon.png"
 post_share = false
 [params.cookies]
 enable = false
@@ -113,11 +113,8 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "\#@anupasabraham"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#https://www.linkedin.com/in/anupa-abraham-b86562105/"
