@@ -14,11 +14,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
-pre = "#"
-url = "about"
-weight = 1
-[[Languages.en.menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
