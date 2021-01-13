@@ -77,7 +77,7 @@ google_analytics_id = ""
 logo = "/images/favicon.png"
 post_share = false
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 [params.map]
 enable = false
