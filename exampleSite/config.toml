@@ -35,11 +35,6 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Anupa"
 description = "My Blog"
