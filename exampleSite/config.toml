@@ -41,6 +41,7 @@ description = "My Blog"
 google_analytics_id = ""
 logo = "/images/favicon.png"
 post_share = false
+social = []
 [params.cookies]
 enable = true
 expire_days = 2
@@ -73,11 +74,5 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo.png"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "\#@anupasabraham"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#https://www.linkedin.com/in/anupa-abraham-b86562105/"
