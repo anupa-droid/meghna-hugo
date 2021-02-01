@@ -5,7 +5,6 @@ author: Mark Dinn
 image_webp: "/images/arno-smit-skj7zsyluao-unsplash.jpg"
 image: "/images/arno-smit-skj7zsyluao-unsplash.jpg"
 description: This is meta description
-draft: true
 
 ---
 * To open terminal: **ctrl + alt + t**
