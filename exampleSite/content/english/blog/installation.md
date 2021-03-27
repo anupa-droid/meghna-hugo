@@ -1,6 +1,6 @@
 ---
 title: Linux Command line Basics
-date: 2021-01-06T08:51:12+00:00
+date: 2021-03-07T18:30:00+00:00
 author: Mark Dinn
 image_webp: "/images/arno-smit-skj7zsyluao-unsplash.jpg"
 image: "/images/arno-smit-skj7zsyluao-unsplash.jpg"
