@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Dernier message
 - id: readMore
@@ -6,10 +7,6 @@
   translation: Voir tous les articles
 - id: share
   translation: Partager
-- id: aboutAuthor
-  translation: À propos de l'auteur
-- id: authorsPosts
-  translation: Articles de l'auteur
 - id: all
   translation: All
 - id: about
