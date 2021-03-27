@@ -18,3 +18,8 @@ description: This is meta description
   > to display a specific month (say January) in a year: **cal 1 2010**
 * To clear the terminal: **clear**
 * To exit terminal: **exit**
+* To view files present in a directory: **ls -lrt**
+* To view current directory: **pwd**
+* To check RAM size: **free -h**
+* To check file size: __du -sh *__
+* To move from one server to another: **scp -r _foldername user@servername:path_**
